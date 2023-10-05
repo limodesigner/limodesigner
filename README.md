@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Linda and am in the process of becoming a front end developer.
+## Hi there 👋 My name is Linda and am in the process of becoming a front end developer
 
 Studying hard at the moment, to become a front end developer.  
 I love working on project related to Adobe, WordPress and WooCommerce, and will continue to do so for the rest of my career!
@@ -7,9 +7,9 @@ I love working on project related to Adobe, WordPress and WooCommerce, and will 
 
     🔲 Experienced with graphic design and webdesign.
     🔲 Knowledgeable in webdeveloping using HTML, CSS and JS.
-    🔲 Getting to know JS and REST API better, the comming year.
+    🔲 Getting to know JS and REST API better.
 
-### Projects
+### Repos to check out
 
     Sweetheart Embroidery Online:
     A blog about machine and hand embroidery.
@@ -29,3 +29,5 @@ I love working on project related to Adobe, WordPress and WooCommerce, and will 
     🔗 LinkedIn: https://www.linkedin.com/in/linda-m%C3%B8nstre-7033a624a/
 
 **Let's work togheter!**
+
+<img="src>
